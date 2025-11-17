@@ -1,0 +1,572 @@
+{
+    "tomato": [
+        "https://en.wikipedia.org/wiki/Tomato",
+        "https://en.wikipedia.org/wiki/Tomato_plant",
+        "https://en.wikipedia.org/wiki/Tomato_cultivation",
+        "https://en.wikipedia.org/wiki/Tomato_biology"
+    ],
+    "potato": [
+        "https://en.wikipedia.org/wiki/Potato",
+        "https://en.wikipedia.org/wiki/Potato_plant",
+        "https://en.wikipedia.org/wiki/Potato_cultivation",
+        "https://en.wikipedia.org/wiki/Potato_biology"
+    ],
+    "banana": [
+        "https://en.wikipedia.org/wiki/Banana",
+        "https://en.wikipedia.org/wiki/Banana_plant",
+        "https://en.wikipedia.org/wiki/Banana_cultivation",
+        "https://en.wikipedia.org/wiki/Banana_biology"
+    ],
+    "aloe_vera": [
+        "https://en.wikipedia.org/wiki/Aloe_Vera",
+        "https://en.wikipedia.org/wiki/Aloe_Vera_plant",
+        "https://en.wikipedia.org/wiki/Aloe_Vera_cultivation",
+        "https://en.wikipedia.org/wiki/Aloe_Vera_biology"
+    ],
+    "rose": [
+        "https://en.wikipedia.org/wiki/Rose",
+        "https://en.wikipedia.org/wiki/Rose_plant",
+        "https://en.wikipedia.org/wiki/Rose_cultivation",
+        "https://en.wikipedia.org/wiki/Rose_biology"
+    ],
+    "orchid": [
+        "https://en.wikipedia.org/wiki/Orchid",
+        "https://en.wikipedia.org/wiki/Orchid_plant",
+        "https://en.wikipedia.org/wiki/Orchid_cultivation",
+        "https://en.wikipedia.org/wiki/Orchid_biology"
+    ],
+    "jasmine": [
+        "https://en.wikipedia.org/wiki/Jasmine",
+        "https://en.wikipedia.org/wiki/Jasmine_plant",
+        "https://en.wikipedia.org/wiki/Jasmine_cultivation",
+        "https://en.wikipedia.org/wiki/Jasmine_biology"
+    ],
+    "neem": [
+        "https://en.wikipedia.org/wiki/Neem",
+        "https://en.wikipedia.org/wiki/Neem_plant",
+        "https://en.wikipedia.org/wiki/Neem_cultivation",
+        "https://en.wikipedia.org/wiki/Neem_biology"
+    ],
+    "tulsi": [
+        "https://en.wikipedia.org/wiki/Tulsi",
+        "https://en.wikipedia.org/wiki/Tulsi_plant",
+        "https://en.wikipedia.org/wiki/Tulsi_cultivation",
+        "https://en.wikipedia.org/wiki/Tulsi_biology"
+    ],
+    "sugarcane": [
+        "https://en.wikipedia.org/wiki/Sugarcane",
+        "https://en.wikipedia.org/wiki/Sugarcane_plant",
+        "https://en.wikipedia.org/wiki/Sugarcane_cultivation",
+        "https://en.wikipedia.org/wiki/Sugarcane_biology"
+    ],
+    "wheat": [
+        "https://en.wikipedia.org/wiki/Wheat",
+        "https://en.wikipedia.org/wiki/Wheat_plant",
+        "https://en.wikipedia.org/wiki/Wheat_cultivation",
+        "https://en.wikipedia.org/wiki/Wheat_biology"
+    ],
+    "rice": [
+        "https://en.wikipedia.org/wiki/Rice",
+        "https://en.wikipedia.org/wiki/Rice_plant",
+        "https://en.wikipedia.org/wiki/Rice_cultivation",
+        "https://en.wikipedia.org/wiki/Rice_biology"
+    ],
+    "maize": [
+        "https://en.wikipedia.org/wiki/Maize",
+        "https://en.wikipedia.org/wiki/Maize_plant",
+        "https://en.wikipedia.org/wiki/Maize_cultivation",
+        "https://en.wikipedia.org/wiki/Maize_biology"
+    ],
+    "barley": [
+        "https://en.wikipedia.org/wiki/Barley",
+        "https://en.wikipedia.org/wiki/Barley_plant",
+        "https://en.wikipedia.org/wiki/Barley_cultivation",
+        "https://en.wikipedia.org/wiki/Barley_biology"
+    ],
+    "mint": [
+        "https://en.wikipedia.org/wiki/Mint",
+        "https://en.wikipedia.org/wiki/Mint_plant",
+        "https://en.wikipedia.org/wiki/Mint_cultivation",
+        "https://en.wikipedia.org/wiki/Mint_biology"
+    ],
+    "ginger": [
+        "https://en.wikipedia.org/wiki/Ginger",
+        "https://en.wikipedia.org/wiki/Ginger_plant",
+        "https://en.wikipedia.org/wiki/Ginger_cultivation",
+        "https://en.wikipedia.org/wiki/Ginger_biology"
+    ],
+    "turmeric": [
+        "https://en.wikipedia.org/wiki/Turmeric",
+        "https://en.wikipedia.org/wiki/Turmeric_plant",
+        "https://en.wikipedia.org/wiki/Turmeric_cultivation",
+        "https://en.wikipedia.org/wiki/Turmeric_biology"
+    ],
+    "bamboo": [
+        "https://en.wikipedia.org/wiki/Bamboo",
+        "https://en.wikipedia.org/wiki/Bamboo_plant",
+        "https://en.wikipedia.org/wiki/Bamboo_cultivation",
+        "https://en.wikipedia.org/wiki/Bamboo_biology"
+    ],
+    "apple": [
+        "https://en.wikipedia.org/wiki/Apple",
+        "https://en.wikipedia.org/wiki/Apple_plant",
+        "https://en.wikipedia.org/wiki/Apple_cultivation",
+        "https://en.wikipedia.org/wiki/Apple_biology"
+    ],
+    "mango": [
+        "https://en.wikipedia.org/wiki/Mango",
+        "https://en.wikipedia.org/wiki/Mango_plant",
+        "https://en.wikipedia.org/wiki/Mango_cultivation",
+        "https://en.wikipedia.org/wiki/Mango_biology"
+    ],
+    "guava": [
+        "https://en.wikipedia.org/wiki/Guava",
+        "https://en.wikipedia.org/wiki/Guava_plant",
+        "https://en.wikipedia.org/wiki/Guava_cultivation",
+        "https://en.wikipedia.org/wiki/Guava_biology"
+    ],
+    "lemon": [
+        "https://en.wikipedia.org/wiki/Lemon",
+        "https://en.wikipedia.org/wiki/Lemon_plant",
+        "https://en.wikipedia.org/wiki/Lemon_cultivation",
+        "https://en.wikipedia.org/wiki/Lemon_biology"
+    ],
+    "lime": [
+        "https://en.wikipedia.org/wiki/Lime",
+        "https://en.wikipedia.org/wiki/Lime_plant",
+        "https://en.wikipedia.org/wiki/Lime_cultivation",
+        "https://en.wikipedia.org/wiki/Lime_biology"
+    ],
+    "orange": [
+        "https://en.wikipedia.org/wiki/Orange",
+        "https://en.wikipedia.org/wiki/Orange_plant",
+        "https://en.wikipedia.org/wiki/Orange_cultivation",
+        "https://en.wikipedia.org/wiki/Orange_biology"
+    ],
+    "grape": [
+        "https://en.wikipedia.org/wiki/Grape",
+        "https://en.wikipedia.org/wiki/Grape_plant",
+        "https://en.wikipedia.org/wiki/Grape_cultivation",
+        "https://en.wikipedia.org/wiki/Grape_biology"
+    ],
+    "strawberry": [
+        "https://en.wikipedia.org/wiki/Strawberry",
+        "https://en.wikipedia.org/wiki/Strawberry_plant",
+        "https://en.wikipedia.org/wiki/Strawberry_cultivation",
+        "https://en.wikipedia.org/wiki/Strawberry_biology"
+    ],
+    "blueberry": [
+        "https://en.wikipedia.org/wiki/Blueberry",
+        "https://en.wikipedia.org/wiki/Blueberry_plant",
+        "https://en.wikipedia.org/wiki/Blueberry_cultivation",
+        "https://en.wikipedia.org/wiki/Blueberry_biology"
+    ],
+    "raspberry": [
+        "https://en.wikipedia.org/wiki/Raspberry",
+        "https://en.wikipedia.org/wiki/Raspberry_plant",
+        "https://en.wikipedia.org/wiki/Raspberry_cultivation",
+        "https://en.wikipedia.org/wiki/Raspberry_biology"
+    ],
+    "pineapple": [
+        "https://en.wikipedia.org/wiki/Pineapple",
+        "https://en.wikipedia.org/wiki/Pineapple_plant",
+        "https://en.wikipedia.org/wiki/Pineapple_cultivation",
+        "https://en.wikipedia.org/wiki/Pineapple_biology"
+    ],
+    "papaya": [
+        "https://en.wikipedia.org/wiki/Papaya",
+        "https://en.wikipedia.org/wiki/Papaya_plant",
+        "https://en.wikipedia.org/wiki/Papaya_cultivation",
+        "https://en.wikipedia.org/wiki/Papaya_biology"
+    ],
+    "coconut": [
+        "https://en.wikipedia.org/wiki/Coconut",
+        "https://en.wikipedia.org/wiki/Coconut_plant",
+        "https://en.wikipedia.org/wiki/Coconut_cultivation",
+        "https://en.wikipedia.org/wiki/Coconut_biology"
+    ],
+    "cotton": [
+        "https://en.wikipedia.org/wiki/Cotton",
+        "https://en.wikipedia.org/wiki/Cotton_plant",
+        "https://en.wikipedia.org/wiki/Cotton_cultivation",
+        "https://en.wikipedia.org/wiki/Cotton_biology"
+    ],
+    "sunflower": [
+        "https://en.wikipedia.org/wiki/Sunflower",
+        "https://en.wikipedia.org/wiki/Sunflower_plant",
+        "https://en.wikipedia.org/wiki/Sunflower_cultivation",
+        "https://en.wikipedia.org/wiki/Sunflower_biology"
+    ],
+    "soybean": [
+        "https://en.wikipedia.org/wiki/Soybean",
+        "https://en.wikipedia.org/wiki/Soybean_plant",
+        "https://en.wikipedia.org/wiki/Soybean_cultivation",
+        "https://en.wikipedia.org/wiki/Soybean_biology"
+    ],
+    "cabbage": [
+        "https://en.wikipedia.org/wiki/Cabbage",
+        "https://en.wikipedia.org/wiki/Cabbage_plant",
+        "https://en.wikipedia.org/wiki/Cabbage_cultivation",
+        "https://en.wikipedia.org/wiki/Cabbage_biology"
+    ],
+    "cauliflower": [
+        "https://en.wikipedia.org/wiki/Cauliflower",
+        "https://en.wikipedia.org/wiki/Cauliflower_plant",
+        "https://en.wikipedia.org/wiki/Cauliflower_cultivation",
+        "https://en.wikipedia.org/wiki/Cauliflower_biology"
+    ],
+    "broccoli": [
+        "https://en.wikipedia.org/wiki/Broccoli",
+        "https://en.wikipedia.org/wiki/Broccoli_plant",
+        "https://en.wikipedia.org/wiki/Broccoli_cultivation",
+        "https://en.wikipedia.org/wiki/Broccoli_biology"
+    ],
+    "spinach": [
+        "https://en.wikipedia.org/wiki/Spinach",
+        "https://en.wikipedia.org/wiki/Spinach_plant",
+        "https://en.wikipedia.org/wiki/Spinach_cultivation",
+        "https://en.wikipedia.org/wiki/Spinach_biology"
+    ],
+    "lettuce": [
+        "https://en.wikipedia.org/wiki/Lettuce",
+        "https://en.wikipedia.org/wiki/Lettuce_plant",
+        "https://en.wikipedia.org/wiki/Lettuce_cultivation",
+        "https://en.wikipedia.org/wiki/Lettuce_biology"
+    ],
+    "chili": [
+        "https://en.wikipedia.org/wiki/Chili",
+        "https://en.wikipedia.org/wiki/Chili_plant",
+        "https://en.wikipedia.org/wiki/Chili_cultivation",
+        "https://en.wikipedia.org/wiki/Chili_biology"
+    ],
+    "capsicum": [
+        "https://en.wikipedia.org/wiki/Capsicum",
+        "https://en.wikipedia.org/wiki/Capsicum_plant",
+        "https://en.wikipedia.org/wiki/Capsicum_cultivation",
+        "https://en.wikipedia.org/wiki/Capsicum_biology"
+    ],
+    "eggplant": [
+        "https://en.wikipedia.org/wiki/Eggplant",
+        "https://en.wikipedia.org/wiki/Eggplant_plant",
+        "https://en.wikipedia.org/wiki/Eggplant_cultivation",
+        "https://en.wikipedia.org/wiki/Eggplant_biology"
+    ],
+    "zucchini": [
+        "https://en.wikipedia.org/wiki/Zucchini",
+        "https://en.wikipedia.org/wiki/Zucchini_plant",
+        "https://en.wikipedia.org/wiki/Zucchini_cultivation",
+        "https://en.wikipedia.org/wiki/Zucchini_biology"
+    ],
+    "pumpkin": [
+        "https://en.wikipedia.org/wiki/Pumpkin",
+        "https://en.wikipedia.org/wiki/Pumpkin_plant",
+        "https://en.wikipedia.org/wiki/Pumpkin_cultivation",
+        "https://en.wikipedia.org/wiki/Pumpkin_biology"
+    ],
+    "carrot": [
+        "https://en.wikipedia.org/wiki/Carrot",
+        "https://en.wikipedia.org/wiki/Carrot_plant",
+        "https://en.wikipedia.org/wiki/Carrot_cultivation",
+        "https://en.wikipedia.org/wiki/Carrot_biology"
+    ],
+    "beetroot": [
+        "https://en.wikipedia.org/wiki/Beetroot",
+        "https://en.wikipedia.org/wiki/Beetroot_plant",
+        "https://en.wikipedia.org/wiki/Beetroot_cultivation",
+        "https://en.wikipedia.org/wiki/Beetroot_biology"
+    ],
+    "onion": [
+        "https://en.wikipedia.org/wiki/Onion",
+        "https://en.wikipedia.org/wiki/Onion_plant",
+        "https://en.wikipedia.org/wiki/Onion_cultivation",
+        "https://en.wikipedia.org/wiki/Onion_biology"
+    ],
+    "garlic": [
+        "https://en.wikipedia.org/wiki/Garlic",
+        "https://en.wikipedia.org/wiki/Garlic_plant",
+        "https://en.wikipedia.org/wiki/Garlic_cultivation",
+        "https://en.wikipedia.org/wiki/Garlic_biology"
+    ],
+    "pea": [
+        "https://en.wikipedia.org/wiki/Pea",
+        "https://en.wikipedia.org/wiki/Pea_plant",
+        "https://en.wikipedia.org/wiki/Pea_cultivation",
+        "https://en.wikipedia.org/wiki/Pea_biology"
+    ],
+    "bean": [
+        "https://en.wikipedia.org/wiki/Bean",
+        "https://en.wikipedia.org/wiki/Bean_plant",
+        "https://en.wikipedia.org/wiki/Bean_cultivation",
+        "https://en.wikipedia.org/wiki/Bean_biology"
+    ],
+    "tea": [
+        "https://en.wikipedia.org/wiki/Tea",
+        "https://en.wikipedia.org/wiki/Tea_plant",
+        "https://en.wikipedia.org/wiki/Tea_cultivation",
+        "https://en.wikipedia.org/wiki/Tea_biology"
+    ],
+    "coffee": [
+        "https://en.wikipedia.org/wiki/Coffee",
+        "https://en.wikipedia.org/wiki/Coffee_plant",
+        "https://en.wikipedia.org/wiki/Coffee_cultivation",
+        "https://en.wikipedia.org/wiki/Coffee_biology"
+    ],
+    "pepper_black": [
+        "https://en.wikipedia.org/wiki/Pepper_Black",
+        "https://en.wikipedia.org/wiki/Pepper_Black_plant",
+        "https://en.wikipedia.org/wiki/Pepper_Black_cultivation",
+        "https://en.wikipedia.org/wiki/Pepper_Black_biology"
+    ],
+    "cardamom": [
+        "https://en.wikipedia.org/wiki/Cardamom",
+        "https://en.wikipedia.org/wiki/Cardamom_plant",
+        "https://en.wikipedia.org/wiki/Cardamom_cultivation",
+        "https://en.wikipedia.org/wiki/Cardamom_biology"
+    ],
+    "clove": [
+        "https://en.wikipedia.org/wiki/Clove",
+        "https://en.wikipedia.org/wiki/Clove_plant",
+        "https://en.wikipedia.org/wiki/Clove_cultivation",
+        "https://en.wikipedia.org/wiki/Clove_biology"
+    ],
+    "cinnamon": [
+        "https://en.wikipedia.org/wiki/Cinnamon",
+        "https://en.wikipedia.org/wiki/Cinnamon_plant",
+        "https://en.wikipedia.org/wiki/Cinnamon_cultivation",
+        "https://en.wikipedia.org/wiki/Cinnamon_biology"
+    ],
+    "vanilla": [
+        "https://en.wikipedia.org/wiki/Vanilla",
+        "https://en.wikipedia.org/wiki/Vanilla_plant",
+        "https://en.wikipedia.org/wiki/Vanilla_cultivation",
+        "https://en.wikipedia.org/wiki/Vanilla_biology"
+    ],
+    "lavender": [
+        "https://en.wikipedia.org/wiki/Lavender",
+        "https://en.wikipedia.org/wiki/Lavender_plant",
+        "https://en.wikipedia.org/wiki/Lavender_cultivation",
+        "https://en.wikipedia.org/wiki/Lavender_biology"
+    ],
+    "eucalyptus": [
+        "https://en.wikipedia.org/wiki/Eucalyptus",
+        "https://en.wikipedia.org/wiki/Eucalyptus_plant",
+        "https://en.wikipedia.org/wiki/Eucalyptus_cultivation",
+        "https://en.wikipedia.org/wiki/Eucalyptus_biology"
+    ],
+    "rubber": [
+        "https://en.wikipedia.org/wiki/Rubber",
+        "https://en.wikipedia.org/wiki/Rubber_plant",
+        "https://en.wikipedia.org/wiki/Rubber_cultivation",
+        "https://en.wikipedia.org/wiki/Rubber_biology"
+    ],
+    "teak": [
+        "https://en.wikipedia.org/wiki/Teak",
+        "https://en.wikipedia.org/wiki/Teak_plant",
+        "https://en.wikipedia.org/wiki/Teak_cultivation",
+        "https://en.wikipedia.org/wiki/Teak_biology"
+    ],
+    "pine": [
+        "https://en.wikipedia.org/wiki/Pine",
+        "https://en.wikipedia.org/wiki/Pine_plant",
+        "https://en.wikipedia.org/wiki/Pine_cultivation",
+        "https://en.wikipedia.org/wiki/Pine_biology"
+    ],
+    "cedar": [
+        "https://en.wikipedia.org/wiki/Cedar",
+        "https://en.wikipedia.org/wiki/Cedar_plant",
+        "https://en.wikipedia.org/wiki/Cedar_cultivation",
+        "https://en.wikipedia.org/wiki/Cedar_biology"
+    ],
+    "fir": [
+        "https://en.wikipedia.org/wiki/Fir",
+        "https://en.wikipedia.org/wiki/Fir_plant",
+        "https://en.wikipedia.org/wiki/Fir_cultivation",
+        "https://en.wikipedia.org/wiki/Fir_biology"
+    ],
+    "birch": [
+        "https://en.wikipedia.org/wiki/Birch",
+        "https://en.wikipedia.org/wiki/Birch_plant",
+        "https://en.wikipedia.org/wiki/Birch_cultivation",
+        "https://en.wikipedia.org/wiki/Birch_biology"
+    ],
+    "oak": [
+        "https://en.wikipedia.org/wiki/Oak",
+        "https://en.wikipedia.org/wiki/Oak_plant",
+        "https://en.wikipedia.org/wiki/Oak_cultivation",
+        "https://en.wikipedia.org/wiki/Oak_biology"
+    ],
+    "ash_tree": [
+        "https://en.wikipedia.org/wiki/Ash_Tree",
+        "https://en.wikipedia.org/wiki/Ash_Tree_plant",
+        "https://en.wikipedia.org/wiki/Ash_Tree_cultivation",
+        "https://en.wikipedia.org/wiki/Ash_Tree_biology"
+    ],
+    "maple": [
+        "https://en.wikipedia.org/wiki/Maple",
+        "https://en.wikipedia.org/wiki/Maple_plant",
+        "https://en.wikipedia.org/wiki/Maple_cultivation",
+        "https://en.wikipedia.org/wiki/Maple_biology"
+    ],
+    "lotus": [
+        "https://en.wikipedia.org/wiki/Lotus",
+        "https://en.wikipedia.org/wiki/Lotus_plant",
+        "https://en.wikipedia.org/wiki/Lotus_cultivation",
+        "https://en.wikipedia.org/wiki/Lotus_biology"
+    ],
+    "water_lily": [
+        "https://en.wikipedia.org/wiki/Water_Lily",
+        "https://en.wikipedia.org/wiki/Water_Lily_plant",
+        "https://en.wikipedia.org/wiki/Water_Lily_cultivation",
+        "https://en.wikipedia.org/wiki/Water_Lily_biology"
+    ],
+    "fern": [
+        "https://en.wikipedia.org/wiki/Fern",
+        "https://en.wikipedia.org/wiki/Fern_plant",
+        "https://en.wikipedia.org/wiki/Fern_cultivation",
+        "https://en.wikipedia.org/wiki/Fern_biology"
+    ],
+    "bryophyllum": [
+        "https://en.wikipedia.org/wiki/Bryophyllum",
+        "https://en.wikipedia.org/wiki/Bryophyllum_plant",
+        "https://en.wikipedia.org/wiki/Bryophyllum_cultivation",
+        "https://en.wikipedia.org/wiki/Bryophyllum_biology"
+    ],
+    "coleus": [
+        "https://en.wikipedia.org/wiki/Coleus",
+        "https://en.wikipedia.org/wiki/Coleus_plant",
+        "https://en.wikipedia.org/wiki/Coleus_cultivation",
+        "https://en.wikipedia.org/wiki/Coleus_biology"
+    ],
+    "geranium": [
+        "https://en.wikipedia.org/wiki/Geranium",
+        "https://en.wikipedia.org/wiki/Geranium_plant",
+        "https://en.wikipedia.org/wiki/Geranium_cultivation",
+        "https://en.wikipedia.org/wiki/Geranium_biology"
+    ],
+    "begonia": [
+        "https://en.wikipedia.org/wiki/Begonia",
+        "https://en.wikipedia.org/wiki/Begonia_plant",
+        "https://en.wikipedia.org/wiki/Begonia_cultivation",
+        "https://en.wikipedia.org/wiki/Begonia_biology"
+    ],
+    "hibiscus": [
+        "https://en.wikipedia.org/wiki/Hibiscus",
+        "https://en.wikipedia.org/wiki/Hibiscus_plant",
+        "https://en.wikipedia.org/wiki/Hibiscus_cultivation",
+        "https://en.wikipedia.org/wiki/Hibiscus_biology"
+    ],
+    "bougainvillea": [
+        "https://en.wikipedia.org/wiki/Bougainvillea",
+        "https://en.wikipedia.org/wiki/Bougainvillea_plant",
+        "https://en.wikipedia.org/wiki/Bougainvillea_cultivation",
+        "https://en.wikipedia.org/wiki/Bougainvillea_biology"
+    ],
+    "money_plant": [
+        "https://en.wikipedia.org/wiki/Money_Plant",
+        "https://en.wikipedia.org/wiki/Money_Plant_plant",
+        "https://en.wikipedia.org/wiki/Money_Plant_cultivation",
+        "https://en.wikipedia.org/wiki/Money_Plant_biology"
+    ],
+    "snake_plant": [
+        "https://en.wikipedia.org/wiki/Snake_Plant",
+        "https://en.wikipedia.org/wiki/Snake_Plant_plant",
+        "https://en.wikipedia.org/wiki/Snake_Plant_cultivation",
+        "https://en.wikipedia.org/wiki/Snake_Plant_biology"
+    ],
+    "areca_palm": [
+        "https://en.wikipedia.org/wiki/Areca_Palm",
+        "https://en.wikipedia.org/wiki/Areca_Palm_plant",
+        "https://en.wikipedia.org/wiki/Areca_Palm_cultivation",
+        "https://en.wikipedia.org/wiki/Areca_Palm_biology"
+    ],
+    "date_palm": [
+        "https://en.wikipedia.org/wiki/Date_Palm",
+        "https://en.wikipedia.org/wiki/Date_Palm_plant",
+        "https://en.wikipedia.org/wiki/Date_Palm_cultivation",
+        "https://en.wikipedia.org/wiki/Date_Palm_biology"
+    ],
+    "fig": [
+        "https://en.wikipedia.org/wiki/Fig",
+        "https://en.wikipedia.org/wiki/Fig_plant",
+        "https://en.wikipedia.org/wiki/Fig_cultivation",
+        "https://en.wikipedia.org/wiki/Fig_biology"
+    ],
+    "pomegranate": [
+        "https://en.wikipedia.org/wiki/Pomegranate",
+        "https://en.wikipedia.org/wiki/Pomegranate_plant",
+        "https://en.wikipedia.org/wiki/Pomegranate_cultivation",
+        "https://en.wikipedia.org/wiki/Pomegranate_biology"
+    ],
+    "dragon_fruit": [
+        "https://en.wikipedia.org/wiki/Dragon_Fruit",
+        "https://en.wikipedia.org/wiki/Dragon_Fruit_plant",
+        "https://en.wikipedia.org/wiki/Dragon_Fruit_cultivation",
+        "https://en.wikipedia.org/wiki/Dragon_Fruit_biology"
+    ],
+    "kiwi": [
+        "https://en.wikipedia.org/wiki/Kiwi",
+        "https://en.wikipedia.org/wiki/Kiwi_plant",
+        "https://en.wikipedia.org/wiki/Kiwi_cultivation",
+        "https://en.wikipedia.org/wiki/Kiwi_biology"
+    ],
+    "lettuce_iceberg": [
+        "https://en.wikipedia.org/wiki/Lettuce_Iceberg",
+        "https://en.wikipedia.org/wiki/Lettuce_Iceberg_plant",
+        "https://en.wikipedia.org/wiki/Lettuce_Iceberg_cultivation",
+        "https://en.wikipedia.org/wiki/Lettuce_Iceberg_biology"
+    ],
+    "parsley": [
+        "https://en.wikipedia.org/wiki/Parsley",
+        "https://en.wikipedia.org/wiki/Parsley_plant",
+        "https://en.wikipedia.org/wiki/Parsley_cultivation",
+        "https://en.wikipedia.org/wiki/Parsley_biology"
+    ],
+    "coriander": [
+        "https://en.wikipedia.org/wiki/Coriander",
+        "https://en.wikipedia.org/wiki/Coriander_plant",
+        "https://en.wikipedia.org/wiki/Coriander_cultivation",
+        "https://en.wikipedia.org/wiki/Coriander_biology"
+    ],
+    "curry_leaf": [
+        "https://en.wikipedia.org/wiki/Curry_Leaf",
+        "https://en.wikipedia.org/wiki/Curry_Leaf_plant",
+        "https://en.wikipedia.org/wiki/Curry_Leaf_cultivation",
+        "https://en.wikipedia.org/wiki/Curry_Leaf_biology"
+    ],
+    "amla": [
+        "https://en.wikipedia.org/wiki/Amla",
+        "https://en.wikipedia.org/wiki/Amla_plant",
+        "https://en.wikipedia.org/wiki/Amla_cultivation",
+        "https://en.wikipedia.org/wiki/Amla_biology"
+    ],
+    "jamun": [
+        "https://en.wikipedia.org/wiki/Jamun",
+        "https://en.wikipedia.org/wiki/Jamun_plant",
+        "https://en.wikipedia.org/wiki/Jamun_cultivation",
+        "https://en.wikipedia.org/wiki/Jamun_biology"
+    ],
+    "sweet_potato": [
+        "https://en.wikipedia.org/wiki/Sweet_Potato",
+        "https://en.wikipedia.org/wiki/Sweet_Potato_plant",
+        "https://en.wikipedia.org/wiki/Sweet_Potato_cultivation",
+        "https://en.wikipedia.org/wiki/Sweet_Potato_biology"
+    ],
+    "yam": [
+        "https://en.wikipedia.org/wiki/Yam",
+        "https://en.wikipedia.org/wiki/Yam_plant",
+        "https://en.wikipedia.org/wiki/Yam_cultivation",
+        "https://en.wikipedia.org/wiki/Yam_biology"
+    ],
+    "taro": [
+        "https://en.wikipedia.org/wiki/Taro",
+        "https://en.wikipedia.org/wiki/Taro_plant",
+        "https://en.wikipedia.org/wiki/Taro_cultivation",
+        "https://en.wikipedia.org/wiki/Taro_biology"
+    ],
+    "mustard": [
+        "https://en.wikipedia.org/wiki/Mustard",
+        "https://en.wikipedia.org/wiki/Mustard_plant",
+        "https://en.wikipedia.org/wiki/Mustard_cultivation",
+        "https://en.wikipedia.org/wiki/Mustard_biology"
+    ]
+}
